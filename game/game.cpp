@@ -60,14 +60,7 @@ int main()
 	int enemyX = 0;
 	float espeed = 1.f;
 	int enemyShootLimit = 50; // timer limit for the enemy shooting
-	
-	// Add MUSIC----------------------------------------------------------------------
-	Music music;
-	if(!music.openFromFile("soundtrack.ogg"))
-		std::cout<<"ERROR"<<std::endl;
-		
-	music.play();
-	
+
 	
 	// Create the WINDOW--------------------------------------------------------------
     sf::RenderWindow window(sf::VideoMode().getDesktopMode(), "LASERMACHT", Style::Fullscreen);//
