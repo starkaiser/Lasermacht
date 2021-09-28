@@ -7,3 +7,6 @@ The rules of the game:
 3 From time to time hearts appear that give you +10 health and shields that make a temporarly "force field" and you are not damaged by the projectiles;
 4 In the difficult mode the enemies are moving left and right and you need to hit them 3 times to destroy them;
 5 The game ends when you hit an enemy, the score is less than -50 or your health is 0;
+
+![](/screenshots/screenshot7.png)
+![](/screenshots/screenshot8.png)
